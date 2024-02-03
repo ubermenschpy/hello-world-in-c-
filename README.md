@@ -1,0 +1,1 @@
+# how to print "Hello world!" in c++ (junior mode)
